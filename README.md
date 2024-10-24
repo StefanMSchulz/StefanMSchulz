@@ -6,13 +6,13 @@ I'm Stefan, a Computer Science student at the University of Bonn focusing on Com
 
 # Tech Stack
 
-Frequently I use the following techstack:
+Frequently I use the following tech stack:
 
 - Python (PyTorch, scikit-learn, numpy, matplotlib, seaborn)
 - Visual Studio Code
 - LaTeX (TeXStudio)
 
-On different occasions and far less frequently, I work with this additional techstack:
+On different occasions and far less frequently, I work with this additional tech stack:
 
 - Java
 - HTML/CSS/JavaScript
