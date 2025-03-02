@@ -2,14 +2,16 @@
 
 ## About Me
 
-I'm Stefan, a Computer Science PhD student at the University of Bonn focusing on Computer Graphics and Computer Vision. More precisely, my work evolves around Capture Stages, Differentiable scene Representation, Reconstruction, and Synthesis. Throughout my previous studies I was able to broaden my knowledge by working on robotics projects, medical informatics and physics informed machine learning. That way my bachelor thesis was about "Predicting AMD Stage and Visual Function from Drusen Ultrastructure" within the mdeical domain and my master thesis was about "Deep Learning accelerated Gradient Descent for Solving Partial Differential Equations". Currently, I am working towards a publication related to my master thesis, a publication on fluid dynamics and getting into reconstruction of human avatars. If you are interested to learn more about me and the topics, feel free to get in touch :).
+I'm Stefan, a Computer Science PhD candidate at the University of Bonn focusing on Computer Graphics and Computer Vision. More precisely, my work evolves around Capture Stages, Differentiable Scene Representation, Reconstruction, and Synthesis. Throughout my previous studies I was able to broaden my knowledge by working on robotics projects, medical informatics and physics informed machine learning. As of now, my main interests are Computer Graphics and Computer Vision with the ultimate goal of providing something useful to humanity.
+
+If you are interested in learning more about me or collaborate on a project, feel free to hit me up!
 
 ## Tech Stack
 
 Frequently I use the following tech stack:
 
 - Python (PyTorch, scikit-learn, numpy, matplotlib, seaborn)
-- Visual Studio Code
+- Visual Studio Code + Git
 - LaTeX (TeXStudio)
 
 On different occasions and far less frequently, I work with this additional tech stack:
