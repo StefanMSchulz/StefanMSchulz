@@ -33,7 +33,7 @@ I’m passionate about building systems that **understand, capture, and synthesi
 ### 📸 Outside the Lab
 When I’m not writing code or papers, I’m probably:
 - 📚 Reading sci-fi (big fan of the "Perry Rhodan" series)
-- 🥾 Hiking (remote) trails
+- 🥾 Hiking
 - 📷 Practicing photography
 
 ---
@@ -46,5 +46,5 @@ When I’m not writing code or papers, I’m probably:
 ---
 
 ### ✨ Fun Fact:
-I’m currently working on real-time view synthesis without per-scene re-training and I am always open to cool research collabs or projects pushing the limits of what's possible.
+I’m currently working on multi-modal real-time scene reconstruction without per-scene re-training and I am always open to cool research collabs or projects pushing the limits of what's possible.
 
