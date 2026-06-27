@@ -42,9 +42,9 @@ When I’m not writing code or papers, I’m probably:
 - 🌐 [LinkedIn](https://www.linkedin.com/in/stefan-m-schulz)  
 - 📝 [Personal Website/Portfolio](https://stefanmschulz.github.io) 
 - 📫 Reach me: [stefanm.schulz@t-online.de](mailto:stefanm.schulz@t-online.de)
-
+I'm always open for new cool ideas whether related to my expertise or not. Just hit me up!
 ---
 
 ### ✨ Fun Fact:
-I’m currently working on multi-modal real-time scene reconstruction without per-scene re-training and I am always open to cool research collabs or projects pushing the limits of what's possible.
+I’m currently working on 4DGS compression.
 
