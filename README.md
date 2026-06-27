@@ -35,6 +35,7 @@ When I’m not writing code or papers, I’m probably:
 - 📚 Reading sci-fi (big fan of the "Perry Rhodan" series)
 - 🥾 Hiking
 - 📷 Practicing photography
+- 🎸 Learning the guitar on my beatuiful Hummingbird Studio
 
 ---
 
