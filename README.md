@@ -13,7 +13,7 @@ This work lives at the intersection of:
 - 🕴️ Motion Capture  
 - 🌐 AR/VR  
 
-I’m passionate about building systems that **understand, capture, and synthesize the real world** — bridging the gap between **state-of-the-art research** and **real-world applications**.
+I’m passionate about building systems that **understand, capture, and synthesize the real world** - bridging the gap between **state-of-the-art research** and **real-world applications**.
 
 ---
 
