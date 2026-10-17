@@ -22,6 +22,7 @@ I’m passionate about building systems that **understand, capture, and synthesi
 - Differentiable rendering & optimization  
 - Real-time 4D scene capture  
 - Applications in immersive environments (AR/VR)
+- Compression of volumetric video
 
 ---
 
